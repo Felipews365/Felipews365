@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I´m Felipe Wanderson da Silva 👋
 
-<!--
-**Felipews365/Felipews365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I´m a Web Developer. and, I´m studying web development at [Rocketseat] (https://rocketseat.com.br/).
 
-Here are some ideas to get you started:
+#### Current stack
+- ⚡ Main language: `Javascript`
+- 📡 Backend: `Nodejs`
+- 🎉 Frontend: `Reactjs`, `HTML5`, `CSS3`, `Javascript`
+- 🎨 Layout Design: `Figma`
+- 📦️ Version code control: `Git & Github`
+- 🔨 Tools: `VsCode`, `Markdown`
+- 🌎 I´m mostly active within the `Rocketseat Community`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts
+
+-  📬 Email: felipeari2007@gmail.com
+-  👤 Linkedin: https://www.linkedin.com/in/felipe-wanderson-68390b133/
